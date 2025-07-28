@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DamianRavinduPeiris/streamz-backend.git
+   https://github.com/NimethMethnuka/Movie-App-Backend.git
    ```
 
 2. Navigate to the project directory:
