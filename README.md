@@ -2,7 +2,7 @@
 
 This is the **backend** repository of **Streamz**.
 
-Frontend repository can be found in [here](https://github.com/DamianRavinduPeiris/streamz-web).
+Frontend repository can be found in [here](https://github.com/NimethMethnuka/Movie-App).
 
 ## Preview
 
